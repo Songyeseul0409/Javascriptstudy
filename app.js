@@ -6,7 +6,7 @@ var greeting = 'Hello';
 console.log(greeting);
 console.log([1,2,3,4]); // 배열
 console.table({a:1, b:2});  // 표
-//
+//g
 console.error('This is some error'); // Error message
 console.clear();                    // delete console all.
 console.warn('This is a warning');  // warning message
